@@ -1,0 +1,26 @@
+[debug] [2025-02-27T16:35:19.570Z] ----------------------------------------------------------------------
+[debug] [2025-02-27T16:35:19.576Z] Command:       C:\nvm4w\nodejs\node.exe C:\Users\nexte\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-02-27T16:35:19.577Z] CLI Version:   13.31.2
+[debug] [2025-02-27T16:35:19.578Z] Platform:      win32
+[debug] [2025-02-27T16:35:19.578Z] Node Version:  v20.18.0
+[debug] [2025-02-27T16:35:19.578Z] Time:          Thu Feb 27 2025 18:35:19 GMT+0200 (Central Africa Time)
+[debug] [2025-02-27T16:35:19.579Z] ----------------------------------------------------------------------
+[debug] 
+[warn] !  JSON error trying to load S:\Code\WhoWasIt\.firebaserc 
+[debug] [2025-02-27T16:35:20.088Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-02-27T16:35:20.088Z] > authorizing via signed-in user (pumulomamubiana@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  S:\Code\WhoWasIt
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
